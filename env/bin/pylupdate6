@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /Users/sumanyadav/Desktop/Projects/ML_PROJECTS/Car-sale-prediction-pipeline/env/bin/python -m PyQt6.lupdate.pylupdate ${1+"$@"}

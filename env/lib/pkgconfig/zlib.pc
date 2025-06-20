@@ -1,0 +1,13 @@
+prefix=/Users/sumanyadav/Desktop/Projects/ML_PROJECTS/Car-sale-prediction-pipeline/env
+exec_prefix=/Users/sumanyadav/Desktop/Projects/ML_PROJECTS/Car-sale-prediction-pipeline/env
+libdir=/Users/sumanyadav/Desktop/Projects/ML_PROJECTS/Car-sale-prediction-pipeline/env/lib
+sharedlibdir=/Users/sumanyadav/Desktop/Projects/ML_PROJECTS/Car-sale-prediction-pipeline/env/lib
+includedir=/Users/sumanyadav/Desktop/Projects/ML_PROJECTS/Car-sale-prediction-pipeline/env/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

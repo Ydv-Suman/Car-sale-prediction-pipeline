@@ -1,0 +1,11 @@
+prefix=/Users/sumanyadav/Desktop/Projects/ML_PROJECTS/Car-sale-prediction-pipeline/env
+exec_prefix=/Users/sumanyadav/Desktop/Projects/ML_PROJECTS/Car-sale-prediction-pipeline/env
+libdir=/Users/sumanyadav/Desktop/Projects/ML_PROJECTS/Car-sale-prediction-pipeline/env/lib
+includedir=/Users/sumanyadav/Desktop/Projects/ML_PROJECTS/Car-sale-prediction-pipeline/env/include
+
+Name: UTF8 Range
+Description: Google's UTF8 Library
+Version: 1.0
+Requires: absl_strings
+Libs: -L${libdir} -lutf8_validity -lutf8_range 
+Cflags: -I${includedir}

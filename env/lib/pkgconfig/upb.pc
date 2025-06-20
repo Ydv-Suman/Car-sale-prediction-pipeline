@@ -1,0 +1,10 @@
+prefix=/Users/sumanyadav/Desktop/Projects/ML_PROJECTS/Car-sale-prediction-pipeline/env
+exec_prefix=/Users/sumanyadav/Desktop/Projects/ML_PROJECTS/Car-sale-prediction-pipeline/env
+libdir=/Users/sumanyadav/Desktop/Projects/ML_PROJECTS/Car-sale-prediction-pipeline/env/lib
+includedir=/Users/sumanyadav/Desktop/Projects/ML_PROJECTS/Car-sale-prediction-pipeline/env/include
+
+Name: Protocol Buffers
+Description: Google's Data Interchange Format
+Version: 29.3.0
+Libs: -L${libdir} -lupb 
+Cflags: -I${includedir}
