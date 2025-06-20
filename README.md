@@ -33,3 +33,11 @@ The dataset includes the following columns:
 | `Odometer(Miles)` | Total miles driven                    |
 | `Doors`           | Number of doors (e.g., 2, 4, 5)       |
 | `Price`           | Target variable (car price in USD)    |
+
+## 🚀 How to Run
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/car-sales-prediction-pipeline.git
+   cd car-sales-prediction-pipeline
+
